@@ -1,0 +1,4 @@
+-- git int
+-- git status
+-- git log xem lich sử các lần đã commit
+-- git reset xóa file ra khỏi vùng staging
